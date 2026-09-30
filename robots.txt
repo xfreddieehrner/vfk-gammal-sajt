@@ -1,0 +1,5 @@
+# Arkiverad kopia av den gamla webbplatsen.
+# Den aktuella sajten finns på vaxjoortensfaltrittklubb.se.
+# Arkivet ska inte indexeras och inte konkurrera med den i sökresultaten.
+User-agent: *
+Disallow: /
